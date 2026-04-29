@@ -1,0 +1,8 @@
+.vscode/
+external/
+tests/
+
+program
+test_buffer
+test_handlers
+test_severity
